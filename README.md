@@ -20,3 +20,6 @@ Plandoo is a dedicated personal productivity app designed to empower individuals
 * Integration: Seamlessly integrate Plandoo with your preferred tools and services to enhance your personal productivity workflow.
 
 Plandoo is your trusted companion for staying organized, productive, and in control of your personal life. Whether you're managing daily tasks, pursuing personal projects, or tracking your goals, Plandoo is here to help you succeed. Explore its full range of features by visiting its official website or consulting its documentation.
+
+
+Where is the new update coming up ?
